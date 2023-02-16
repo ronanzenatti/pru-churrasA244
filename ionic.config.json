@@ -1,0 +1,7 @@
+{
+  "name": "pru-churrasA244",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
